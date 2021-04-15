@@ -1,3 +1,4 @@
+//Check if String is Palindrome.
 
 public class PalindromeCheck {
 
